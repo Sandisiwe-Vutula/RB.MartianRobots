@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RB.MartianRobots.App": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "commandLineArgs": "Input/SampleInput.txt"
+    }
+  }
+}

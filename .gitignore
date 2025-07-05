@@ -5,3 +5,5 @@
 /.vs
 /RB.MartianRobots.App/obj
 /RB.MartianRobots.Tests/obj
+/RB.MartianRobots.Tests/bin/Debug/net8.0
+/RB.MartianRobots.App/bin/Debug/net8.0
